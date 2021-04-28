@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^9.0.0",
+    "puppeteer-stream": "^2.0.3",
     "puppeteer-video-recorder": "^1.0.3"
   }
 }
